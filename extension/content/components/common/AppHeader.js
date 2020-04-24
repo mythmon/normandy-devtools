@@ -26,7 +26,7 @@ import {
   useSelectedEnvironment,
   useSelectedEnvironmentAuth,
 } from "devtools/contexts/environment";
-import { upperCaseFirst } from "devtools/utils/helpers.ts";
+import { upperCaseFirst } from "devtools/utils/helpers";
 
 export default function AppHeader() {
   return (
